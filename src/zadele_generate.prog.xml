@@ -36,6 +36,18 @@
     </item>
     <item>
      <ID>S</ID>
+     <KEY>P_ORPA</KEY>
+     <ENTRY>Report Parameters</ENTRY>
+     <LENGTH>25</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_ORSO</KEY>
+     <ENTRY>Report Select-Options</ENTRY>
+     <LENGTH>29</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
      <KEY>P_ORST</KEY>
      <ENTRY>DDIC Structure (clipboard)</ENTRY>
      <LENGTH>34</LENGTH>
@@ -72,6 +84,18 @@
        <ID>S</ID>
        <KEY>P_OMSI</KEY>
        <ENTRY>ADELE RFC API</ENTRY>
+       <LENGTH>38</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_ORPA</KEY>
+       <ENTRY>Report Parameters</ENTRY>
+       <LENGTH>38</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>P_ORSO</KEY>
+       <ENTRY>Report Select-Options</ENTRY>
        <LENGTH>38</LENGTH>
       </item>
       <item>
