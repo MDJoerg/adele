@@ -60,50 +60,41 @@
        <PARAMETER>IV_MAX</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Row Index of Internal Tables</STEXT>
-       <INDEX> 001</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>IS_SELOPT</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Adele export - BALHDR - filters</STEXT>
-       <INDEX> 002</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>IV_DIM</PARAMETER>
        <KIND>P</KIND>
-       <INDEX> 003</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>IV_FCT</PARAMETER>
        <KIND>P</KIND>
-       <INDEX> 004</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>ET_DATA</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Adele export - BALHDR - transfer</STEXT>
-       <INDEX> 005</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>IT_SELOPT</PARAMETER>
        <KIND>P</KIND>
        <STEXT>SAP Query (S): DBOS Selections for Object Key</STEXT>
-       <INDEX> 006</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>WRONG_INTERFACE</PARAMETER>
        <KIND>X</KIND>
-       <INDEX> 007</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>WRONG_SQL</PARAMETER>
        <KIND>X</KIND>
-       <INDEX> 008</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>ERRORS_OCCURED</PARAMETER>
        <KIND>X</KIND>
-       <INDEX> 009</INDEX>
       </RSFDO>
      </DOCUMENTATION>
     </item>
@@ -159,50 +150,41 @@
        <PARAMETER>IV_MAX</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Row Index of Internal Tables</STEXT>
-       <INDEX> 001</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>IS_SELOPT</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Adele export - SNAP - filters</STEXT>
-       <INDEX> 002</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>IV_DIM</PARAMETER>
        <KIND>P</KIND>
-       <INDEX> 003</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>IV_FCT</PARAMETER>
        <KIND>P</KIND>
-       <INDEX> 004</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>ET_DATA</PARAMETER>
        <KIND>P</KIND>
        <STEXT>Adele export - SNAP - transfer</STEXT>
-       <INDEX> 005</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>IT_SELOPT</PARAMETER>
        <KIND>P</KIND>
        <STEXT>SAP Query (S): DBOS Selections for Object Key</STEXT>
-       <INDEX> 006</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>WRONG_INTERFACE</PARAMETER>
        <KIND>X</KIND>
-       <INDEX> 007</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>WRONG_SQL</PARAMETER>
        <KIND>X</KIND>
-       <INDEX> 008</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>ERRORS_OCCURED</PARAMETER>
        <KIND>X</KIND>
-       <INDEX> 009</INDEX>
       </RSFDO>
      </DOCUMENTATION>
     </item>
